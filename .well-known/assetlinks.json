@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kovernow.ludwig",
+      "sha256_cert_fingerprints": [
+        "79:1F:D6:F0:C1:B2:6E:79:17:95:75:EB:E7:82:63:EA:D0:0F:22:69:00:BE:B2:6B:30:2D:EF:75:03:28:A5:07"
+      ]
+    }
+  }
+]
